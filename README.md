@@ -2,7 +2,7 @@
 - 👀 I’m interested in girls.
 - 🌱 I’m currently learning computer engineering.
 - 💞️ I’m looking to collaborate on xxx.
-- 📫 How to reach me ... QQ1103155030
+- 📫 How to reach me ...
 
 <!---
 CXY6/CXY6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
